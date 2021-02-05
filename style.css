@@ -1,0 +1,28 @@
+.header-box{
+
+}
+
+.header-logo{
+  height: auto;
+  display: block;
+  position: absolute;
+
+}
+
+.logo-gmail{
+  max-width: 33px;
+}
+button{
+  background-color: #1a73e8;
+  display: block;
+  position: absolute;
+  right: 0;
+  
+}
+
+.laptop-img{
+  height: auto;
+  vertical-align: middle;
+  display: inline-block;
+  max-width: 1550px;
+}
